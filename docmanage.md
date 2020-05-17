@@ -34,15 +34,29 @@
 1. 谷歌镜像
 2. 谷歌上网助手（chrome插件、firefox插件）
 3. 梯子法
-
 个人经常使用mijisou和dogedoge这类能在国内正常使用的搜索引擎作为替代品。
 ```
 
 - 命令检索：在搜索引擎上输入关键词、命令
-  - 限定网址  site:xxx.com
-  ```risk assessment site:malariajournal.com  ```
+  - 限定网址  xx site:xxx.com
+  ```
+  risk assessment site:malariajournal.com
+  ```
+  - 限定类型 filetype:xx
+  xx可以是ppt,ppts,doc,docx,xlsx,pdf,txt
+  ```
+  risk filetype:pdf 
+  ```
+  - 在url限定关键字 inurl:xx
+  - 在title限定关键字 intitle:xx
+  
+  > 补充网上笔记：[高级搜索技巧：site，link，inurl，allinurl，intitle，allintitle](https://www.douban.com/note/256407195/)
 
-
+  ```
+  用途举例：
+  1.看某个学校是否有某个仪器
+  2.看某个学校的某个老师做过什么
+  ```
 
 
 
