@@ -8,4 +8,4 @@ Courses include those about how to improve scientific researches and others.
 
 
 ### Biostat - R programming
- (adw96/biostat561)[https://github.com/adw96/biostat561]
+ [adw96/biostat561](https://github.com/adw96/biostat561)
